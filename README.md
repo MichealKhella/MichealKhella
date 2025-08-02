@@ -25,7 +25,22 @@
 </a>
 
 
+
 ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/bar-chart_1f4ca.png" width="25" /> GitHub Stats
+<h3 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/bar-chart_1f4ca.png" width="30" />
+  GitHub Stats
+</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Micheal2001&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Micheal2001&color=blue" alt="Profile Views" />
+</p>
+
+<hr/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Micheal2001)](https://git.io/streak-stats)
 
