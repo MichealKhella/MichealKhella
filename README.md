@@ -1,7 +1,5 @@
 ## Hi, I'm Micheal <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30" height="30" />
 
-## 👋 Hi, I'm Micheal
-
 🎓 I'm a **.NET Full-Stack Developer** and a proud graduate of the **Information Technology Institute (ITI)**, where I completed an intensive program in modern web development.
 
 💻 I enjoy building **scalable**, **maintainable** web applications and solving real-world problems using technologies like **C#**, **ASP.NET**, **JavaScript**, and **SQL Server**.
