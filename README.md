@@ -67,7 +67,6 @@
 
 ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" width="25" /> Connect With Me
 
-<h3 align="center">📫 Connect With Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/micheal-khella-4819b3377" target="_blank">
