@@ -42,10 +42,6 @@
 
 <hr/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Micheal2001)](https://git.io/streak-stats)
-
-![Profile views](https://komarev.com/ghpvc/?username=Micheal2001&color=blue)
-
 ---
 
 ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="30" height="30" /> Skills
