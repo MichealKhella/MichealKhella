@@ -16,7 +16,7 @@
 
 📫 **Get in touch:**  
 📧 [michealkhella2001@gmail.com](mailto:michealkhella2001@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE) *(Replace with your link)*  
+🔗 [LinkedIn Profile](www.linkedin.com/in/micheal-khella-4819b3377) *(Replace with your link)*  
 
 ---
 
