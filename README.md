@@ -67,11 +67,25 @@
 
 ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" width="25" /> Connect With Me
 
-<a href="https://www.linkedin.com/in/micheal-khella-4819b3377" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:michealkhella01@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Micheal2001)
+<h3 align="center">📫 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/micheal-khella-4819b3377" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:michealkhella2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Micheal2001" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
