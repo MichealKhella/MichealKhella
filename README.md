@@ -1,16 +1,24 @@
-## Hi there 👋
-
 ## Hi, I'm Micheal <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30" height="30" />
 
+## 👋 Hi, I'm Micheal
 
-🎓 I'm a .NET Full-Stack Developer and a proud graduate of the Information Technology Institute (ITI), where I completed an intensive program in modern web development.  
-💻 I love building scalable, maintainable web applications and solving real-world problems using technologies like C#, ASP.NET, JavaScript, and SQL Server.  
-🛠 I'm experienced with both frontend and backend development, and I enjoy working with tools like Entity Framework, LINQ, and Bootstrap to bring projects to life.  
-🚀 I'm currently open to full-time job or internship opportunities where I can grow as a developer, collaborate with great teams, and make a meaningful impact.  
-🌱 I'm continuously learning new technologies and frameworks — recently exploring Blazor, REST APIs, and modern DevOps practices.  
-🤝 I believe in clean code, teamwork, and the power of consistent improvement.
+🎓 I'm a **.NET Full-Stack Developer** and a proud graduate of the **Information Technology Institute (ITI)**, where I completed an intensive program in modern web development.
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/micheal-khella-151428336/) or reach out via email at michealkhella2001@gmail.com.
+💻 I enjoy building **scalable**, **maintainable** web applications and solving real-world problems using technologies like **C#**, **ASP.NET**, **JavaScript**, and **SQL Server**.
+
+🛠️ I'm experienced with both frontend and backend development. I love using tools like **Entity Framework**, **LINQ**, and **Bootstrap** to bring ideas to life.
+
+🚀 I'm currently open to **full-time jobs** or **internship opportunities** where I can grow as a developer, collaborate with great teams, and make a meaningful impact.
+
+🌱 I'm continuously learning new technologies and frameworks — recently exploring **Blazor**, **REST APIs**, and modern **DevOps practices**.
+
+🤝 I believe in **clean code**, **teamwork**, and the power of consistent improvement.
+
+---
+
+📫 **Get in touch:**  
+📧 [michealkhella2001@gmail.com](mailto:michealkhella2001@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE) *(Replace with your link)*  
 
 ---
 
